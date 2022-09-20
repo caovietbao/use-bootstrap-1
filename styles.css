@@ -1,7 +1,7 @@
 .bg-img1 {
   background-color: #000;
   background-size: cover;
-  background-image: url(../images/hinhnen1.jpg);
+  background-image: url(./images/hinhnen1.jpg);
   width: 100%;
   height: 50vh;
 }
@@ -9,14 +9,14 @@
 .bg-img2 {
   background-color: #000;
   background-size: cover;
-  background-image: url(../images/hinhnen2.jpg);
+  background-image: url(./images/hinhnen2.jpg);
   width: 100%;
   height: 50vh;
 }
 .bg-img3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(../images/hinhnen3.jpg);
+  background-image: url(./images/hinhnen3.jpg);
   width: 100%;
   height: 50vh;
 }
